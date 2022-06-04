@@ -1,3 +1,1 @@
-print('heloo')
-print('test')
-print('hey')
+print('heloo world')
