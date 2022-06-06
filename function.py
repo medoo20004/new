@@ -3,7 +3,7 @@
 #print("ahmed")
 #liner()
 #print(22)
-#liner()
+#liner()2
 
 def test(num1,num2):
     print(int(num1)+ int(num2))
