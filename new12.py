@@ -10,4 +10,4 @@ for x in dic:
         print(' the page ' + url + '/' + x + 'is there')
     else:
         print('the page ' + url + '/' + x + 'is not there ')
-
+    
